@@ -5,10 +5,8 @@
   -  mysql to pl sql/oracle
 ### TODO LIST
 
-- Add and explore the thesis project using notebooks
-- Add SIMIO code and results
+- Explore the thesis project using notebooks
 - Add Matlab code and problems solved
-- Merge Tribal-Wars repos
 - Add javascript browser scripts for the extension spidermonkey
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
