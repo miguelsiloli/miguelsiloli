@@ -3,11 +3,6 @@
   -  workflow managers such as prefect and perfecting airflow
   -  transitioning from pandas to dask and high performance computing
   -  mysql to pl sql/oracle
-### TODO LIST
-
-- Explore the thesis project using notebooks
-- Add Matlab code and problems solved
-- Add javascript browser scripts for the extension spidermonkey
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
 
