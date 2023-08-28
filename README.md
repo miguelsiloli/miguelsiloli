@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 😄
+
+- I'm currently working on building my github repos with some projects I've been building over the years so I can easily show my interests and skills. Hopefully I can contribute to your projects as well!
+- I'm currently learning workflow:
+  -  managers such as prefect and perfecting airflow, transitioning from pandas to dask and high performance computing
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
 
