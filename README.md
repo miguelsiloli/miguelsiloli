@@ -1,13 +1,8 @@
 ### Hi 😄
-
-- I'm currently working on building my github repos with some projects I've been building over the years so I can easily show my interests and skills. Hopefully I can contribute to your projects as well!
-- I'm currently learning:
+- I'm currently exploring:
   -  workflow managers such as prefect and perfecting airflow
   -  transitioning from pandas to dask and high performance computing
   -  mysql to pl sql/oracle
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
-
 ### TODO LIST
 
 - Add and explore the thesis project using notebooks
@@ -15,6 +10,8 @@
 - Add Matlab code and problems solved
 - Merge Tribal-Wars repos
 - Add javascript browser scripts for the extension spidermonkey
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
 
 <!--
 **lmao420blazeit/lmao420blazeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
