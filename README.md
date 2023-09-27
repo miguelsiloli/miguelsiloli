@@ -4,6 +4,10 @@
   -  transitioning from pandas to dask and high performance computing
   -  mysql to pl sql/oracle
 
+#### TO DO
+- SQLAlchemy database sharding and horizontally scaled databases
+- Include Postman and Graphene on Tw API
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
 
 <!--
