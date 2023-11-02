@@ -3,6 +3,8 @@
   -  workflow managers such as prefect and perfecting airflow
   -  transitioning from pandas to dask and high performance computing
   -  mysql to pl sql/oracle
+  -  Emmet for easier HTML/CSS
+  -  SASS over CSS
 
 #### TO DO
 - SQLAlchemy database sharding and horizontally scaled databases
