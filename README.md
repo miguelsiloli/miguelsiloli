@@ -1,10 +1,10 @@
 ### Hi 😄
 - I'm currently exploring:
-  -  workflow managers such as prefect and perfecting airflow
+  -  workflow managers such as airflow
   -  transitioning from pandas to dask and high performance computing
-  -  mysql to pl sql/oracle
   -  Emmet for easier HTML/CSS
-  -  SASS over CSS
+  -  SASS
+  -  git
 
 #### TO DO
 - SQLAlchemy database sharding and horizontally scaled databases
