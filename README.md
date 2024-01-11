@@ -2,8 +2,6 @@
 - I'm currently exploring:
   -  workflow managers such as airflow
   -  transitioning from pandas to dask and high performance computing
-  -  Emmet for easier HTML/CSS
-  -  SASS
   -  git
 
 #### TO DO
