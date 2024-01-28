@@ -1,11 +1,10 @@
 ### Hi 😄
 - I'm currently exploring:
-  -  workflow managers such as airflow
-  -  transitioning from pandas to dask and high performance computing
+  -  workflow managers such as prefect
+  -  transitioning from pandas to dask and spark
   -  git
 
 #### TO DO
-- SQLAlchemy database sharding and horizontally scaled databases
 - Include Postman and Graphene on Tw API
 - AWS Certification: https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org
 
