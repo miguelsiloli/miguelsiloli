@@ -10,6 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
 
+| Left-aligned | Center-aligned | Right-aligned |
+| :----------- | :------------: | ------------: |
+| Cell 1       |    Cell 2      |        Cell 3 |
+| Cell 4       |    Cell 5      |        Cell 6 |
+
 <!--
 **lmao420blazeit/lmao420blazeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
