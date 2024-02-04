@@ -13,7 +13,7 @@
 | Project | TODO | Description |
 | :----------- | :------------: | ------------: |
 | Vinted Analytics | Dump flow metadata into postgres; measure data drift between batches     | Using vinted api endpoints to fetch batch data about new products into postgresql, use streamlit dashboard to view the price dynamics across predictor variables. For each run, samples are selected and tracked daily untill the product is sold. With this data, I will be able to predict the saleability for each catalog product and determine the key factors to success in the platform as a seller. In addition, this data can be used to detect arbitrage opportunities by finding out which products are being sold lower than its expected cost. |
-| TribalWars API|    Cell 5      |        Cell 6 |
+| TribalWars API|         |         |
 
 <!--
 **lmao420blazeit/lmao420blazeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
