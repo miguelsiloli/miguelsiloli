@@ -5,7 +5,6 @@
   -  git
 
 #### TO DO
-- Include Postman and Graphene on Tw API
 - AWS Certification: https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmao420blazeit&layout=compact)
